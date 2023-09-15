@@ -5,21 +5,19 @@ permalink: /working_papers/
 author_profile: true
 ---
 
-## [Autocratic Survival and the Introduction of Succession Rules](/files/SharmanAutocratic_wp.pdf)
+## [Coup Risk and Designated Successors in Autocracies](/files/SharmanAutocratic_wp.pdf)
 
-*Abstract*: Why do autocrats have succession rules and successors?
-According to a recent wave of research, autocrats have succession rules when they expect to lose power.
+*Abstract*: Why do some autocracies formalize designated successors in the constitution?
+According to a recent wave of research, autocrats have succession rules when coups are likely.
 Successors increase certainty over the regime's future and protect the autocrat from coups.
-Previous work assumes that autocrats have succession rules when endangered and tests the effects of succession rules on survival.
-In contrast, I argue that secure autocrats are more likely to have succession rules because they can prevent coups from successors and ambitious elites.
-I conduct the first test of whether survival probability influences having succession rules and a create a novel measurement of survival probability using machine learning.
-I find support for my argument.
-Higher survival probabilities increase the probability of having succession rules and successors.
-My results suggest that the relationship between succession rules and survival needs to be revisited.
-They also demonstrate the importance of studying institutions' causes for studying autocracies.
+In contrast, I argue that secure autocrats are more likely to have succession rules when they can prevent coups from successors and ambitious elites.
+I directly test whether coup risk influences having vice presidents and create a novel measurement of coup risk using Random Forests.
+I find support for my argument: Higher coup risk decreases the probability of an autocracy having a vice president.
+My results suggest that the relationship between successors and survival needs to be revisited.
+They also demonstrate the importance of testing institutions' causes for studying autocratic institutions.
 To understand the effects of institutions, we need to understand their causes.
 
-*Status*: Updated April 5, 2023. Presented at the 2023 Midwest Political Science Association conference.
+*Status*: Under review. Updated August 31, 2023. Presented at the 2023 Midwest Political Science Association conference.
 
 ## [Labor Mobility and Semi-Presidentialism](/files/SharmanSemi_wp.pdf)
 
@@ -28,4 +26,4 @@ To demonstrate the importance of considering semi-presidentialism, I reanalyze a
 I replicate previous analyses and find little evidence that the type of democracy affects labor mobility. Political scientists need to consider semi-presidentialism or risk erroneous inferences.
 Further, theories of institutions and immigration policy, and institutional theories more generally, should focus on more specific institutions rather than rely on the blunt distinctions between types of democracies.
 
-*Status*: Updated May 9, 2023. Under review.
+*Status*: Under review. Updated May 9, 2023.

@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Department of Political Science at Texas A&M University.
-My research focuses on comparative political institutions, especially in autocracies, and international political economy, particularly exchange rates and sovereign debt.
-In my dissertation, I combine both interests by studying how institutions governing succession in autocracies affect access to foreign finance and investment.
-I also study how leader survival affects political outcomes, such as using leader survival to explain the adoption of institutions.
+I am a PhD student in the Department of Political Science at Texas A&M University specializing in comparative politics and international relations. My research interests focus on the politics of dictatorships, particularly the origins and consequences of autocratic institutions, and international political economy. My dissertation studies how dictatorships regulate succession and how succession rules can increase access to foreign finance such as sovereign debt and foreign direct investment.
 
 Above, you can find links to a list of current working papers and the most recent copy of my CV.
