@@ -16,7 +16,7 @@ author_profile: true
 
 - Kockaya, Leon, and Sam Sharman. "Building on Democratic Hypocrisy: State Power and Surveillance."
 - Sharman, Sam. "Coup Risk and Designated Successors in Autocracies." [Manuscript](/files/SharmanAutocratic_wp.pdf)
-- Sharman, Sam. Autocratic Succession and Access to Foreign Finance." [Manuscript](/files/Sharman_Succession_Finance.pdf)
+- Sharman, Sam. "Autocratic Succession and Access to Foreign Finance." [Manuscript](/files/Sharman_Succession_Finance.pdf)
 
 ## In Progress
 
