@@ -20,7 +20,7 @@ author_profile: true
 
 ## In Progress
 
-- Cheibub, Jose&#232; Antonio, Quan Li, and Sam Sharman. "Foreign Actors in Domestic Winning Coalitions."
+- Cheibub, Jos&#233; Antonio, Quan Li, and Sam Sharman. "Foreign Actors in Domestic Winning Coalitions."
 - Choi, Hongbi, and Sam Sharman. "The Conditional Importance of the Rule of Law for Foreign Direct Investment in Autocracies."
 - Kockaya, Leon, and Sam Sharman. "Announcing Fixed Exchange Rate Regimes: Why States Lie about Floating."
 - Sharman, Sam. "Succession Rules and the Survival of Autocratic Regimes."
