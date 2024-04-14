@@ -10,7 +10,7 @@ author_profile: true
 - Sharman, Sam. 2024. "Labor Mobility and Semi-Presidentialism." *Electoral Studies* 88 (April): 102772.
 <a href="https://urldefense.com/v3/__https://authors.elsevier.com/a/1io02xRaZk1aj__;!!KwNVnqRv!D_V5kDeLHTbFD6JJ8kkyB8HJyzWPXjKVSSL4mGzTH_OX90ZIWSXrD2-PxRbr2LCt1TkYmsixhXsPV71asggYAEOC9ZrSFA$">Paper</a>
 <a href="https://ars.els-cdn.com/content/image/1-s2.0-S0261379424000301-mmc1.pdf">Appendix</a>
-<a href="https://doi.org/10.7910/DVN/1U75SU">Replication</a>
+<a href="https://doi.org/10.7910/DVN/1U75SU" target="_blank">Replication</a>
 
 ## Working Papers
 
