@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Department of Political Science at Texas A&M University specializing in comparative politics and international relations. My research interests focus on the politics of dictatorships, particularly the origins and consequences of autocratic institutions, and international political economy. My dissertation studies how dictatorships regulate succession and how succession rules can increase access to foreign finance such as sovereign debt and foreign direct investment.
+I am a PhD candidate the Department of Political Science at Texas A&M University.
+Broadly, my research focuses on how already stable autocracies develop institutions to facilitate governance and cooperation among their elites.
+Specifically, my dissertation focuses on succession rules, or constitutional provisions for replacing the leader after a vacancy due to a leader's death, resignation, or incapacitation.
+I use an original dataset of succession rules in sub-Saharan Africa to study not only how succession rules emerge but also the consequences they have on the stability of the autocratic regime and their ability to borrow money through sovereign bonds.
 
-Above, you can find links to a list of current working papers and the most recent copy of my CV.
+
+Feel free to contact me at ssharman13@tamu.edu.
