@@ -16,8 +16,8 @@ author_profile: true
 ## Working Papers
 
 - Kockaya, Leon, and Sam Sharman. "Building on Democratic Hypocrisy: State Power and Surveillance."
-- Sharman, Sam. "Coup Risk and Designated Successors in Autocracies." <a href="/files/SharmanAutocratic_wp.pdf" target="_blank">Manuscript</a>
-- Sharman, Sam. "Autocratic Succession and Access to Foreign Finance." <a href="/files/Sharman_Succession_Finance.pdf" target="_blank">Manuscript</a>
+- Sharman, Sam. "Coup Risk and Autocratic Succession Rules." <a href="/files/SharmanAutocratic_wp.pdf" target="_blank">Manuscript</a>
+- Sharman, Sam. "Autocratic Succession Rules and Access to Foreign Finance." <a href="/files/Sharman_Succession_Finance.pdf" target="_blank">Manuscript</a>
 
 ## In Progress
 
