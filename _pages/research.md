@@ -15,13 +15,15 @@ author_profile: true
 
 ## Working Papers
 
-- Goidel, Spencer, Leon Kockaya, and Sam Sharman. "Priming Support for Government Restrictions and the Desire for State Surveillance."
-- Sharman, Sam. "Coup Risk and Autocratic Succession Rules." <a href="/files/SharmanAutocratic_wp.pdf" target="_blank">Manuscript</a>
-- Sharman, Sam. "Autocratic Succession Rules and Access to Foreign Finance." <a href="/files/Sharman_Succession_Finance.pdf" target="_blank">Manuscript</a>
+- Sharman, Sam. "Coup Risk and Autocratic Succession Rules: Evidence from Sub-Saharan Africa." <a href="/files/SharmanAutocratic_wp.pdf" target="_blank">Manuscript</a>
+- Sharman, Sam. "Autocratic Succession Rules and Access to Foreign Finance: An Analysis of Sovereign Bond Markets in Sub-Saharan Africa." <a href="/files/SharmanSuccessionFinance_wp.pdf" target="_blank">Manuscript</a>
+- Choi, Hongbi, and Sam Sharman. "The Conditional Importance of the Rule of Law for Foreign Direct Investment in Autocracies."
+- Goidel, Spencer, Leon Kockaya, and Sam Sharman. "Political Polarization and Citizen Support for State Surveillance: A Survey Experiment in the United States."
+
+For co-authored papers, please [email me](mailto:ssharman13@tamu.edu) or one of the other authors to access the current manuscript.
 
 ## In Progress
 
-- Cheibub, Jos&#233; Antonio, Quan Li, and Sam Sharman. "Foreign Actors in Domestic Winning Coalitions."
-- Choi, Hongbi, and Sam Sharman. "The Conditional Importance of the Rule of Law for Foreign Direct Investment in Autocracies."
-- Kockaya, Leon, and Sam Sharman. "Announcing Fixed Exchange Rate Regimes: Why States Lie about Floating."
 - Sharman, Sam. "Succession Rules and the Survival of Autocratic Regimes."
+- Cheibub, Jos&#233; Antonio, Quan Li, and Sam Sharman. "Foreign Actors in Domestic Winning Coalitions."
+- Kockaya, Leon, and Sam Sharman. "Announcing Fixed Exchange Rate Regimes: Why States Lie about Floating."

@@ -7,7 +7,8 @@ author_profile: true
 
 Instructor of Record, Texas A&M University:
 
-- POLS 424: Comparative Governmental Institutions (Fall 2024)
+- POLS 424: Comparative Governmental Institutions (Fall 2024, Spring 2025)
+- POLS 318: Theories of International Relations (Fall 2025)
 
 Teaching Assistant, Texas A&M University:
 
