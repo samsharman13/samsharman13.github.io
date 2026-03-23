@@ -15,7 +15,7 @@ author_profile: true
 
 ## Working Papers
 
-- Sharman, Sam. "Coup Risk and Autocratic Succession Rules: Evidence from Sub-Saharan Africa." <a href="/files/SharmanAutocratic_wp.pdf" target="_blank">Manuscript</a>
+- Sharman, Sam. "Succession from Strength: Coups and Autocratic Succession Rules in Sub-Saharan Africa." <a href="/files/SharmanAutocratic_wp.pdf" target="_blank">Manuscript</a>
 - Sharman, Sam. "Autocratic Succession Rules and Access to Foreign Finance: An Analysis of Sovereign Bond Markets in Sub-Saharan Africa." <a href="/files/SharmanSuccessionFinance_wp.pdf" target="_blank">Manuscript</a>
 - Choi, Hongbi, and Sam Sharman. "The Conditional Importance of the Rule of Law for Foreign Direct Investment in Autocracies."
 - Goidel, Spencer, Leon Kockaya, and Sam Sharman. "Political Polarization and Citizen Support for State Surveillance: A Survey Experiment in the United States."
