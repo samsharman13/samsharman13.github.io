@@ -19,11 +19,14 @@ author_profile: true
 - Sharman, Sam. "Autocratic Succession Rules and Access to Foreign Finance: An Analysis of Sovereign Bond Markets in Sub-Saharan Africa." <a href="/files/SharmanSuccessionFinance_wp.pdf" target="_blank">Manuscript</a>
 - Choi, Hongbi, and Sam Sharman. "The Conditional Importance of the Rule of Law for Foreign Direct Investment in Autocracies."
 - Goidel, Spencer, Leon Kockaya, and Sam Sharman. "Political Polarization and Citizen Support for State Surveillance: A Survey Experiment in the United States."
+- Kockaya, Leon, and Sam Sharman. "The Mortality Dividend: Leader Deaths and Market Reactions."
+- Young, Clifford, Kirby Goidel, Sam Sharman, Santiago Calvo, and Wenye Yin. "Beyond Authoritarian Populism: Testing Nativism As the Primary Driver of Contemporary Politics."
 
 For co-authored papers, please [email me](mailto:ssharman13@tamu.edu) or one of the other authors to access the current manuscript.
 
 ## In Progress
 
 - Sharman, Sam. "Succession Rules and the Survival of Autocratic Regimes."
-- Cheibub, Jos&#233; Antonio, Quan Li, and Sam Sharman. "Foreign Actors in Domestic Winning Coalitions."
+- Chi, Erik, Nathan McCoslin, and Sam Sharman. "Microfoundations of Costless Credible Signaling."
 - Kockaya, Leon, and Sam Sharman. "Announcing Fixed Exchange Rate Regimes: Why States Lie about Floating."
+- Ray, Nicholas, and Sam Sharman. "Observing Costly Signaling."
