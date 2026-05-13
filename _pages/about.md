@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Assistant Professor of Political Science in the Graduate School of International Relations at the International University of Japan. I completed my PhD in Political Science in Texas A&M University in 2026. 
+I am an incoming Assistant Professor of Political Science in the Graduate School of International Relations at the International University of Japan. I completed my PhD in Political Science at Texas A&M University in 2026. 
 
 My core research focuses on how autocratic institutions emerge and evolve, and the effects of autocratic institutions in international political economy.
 My dissertation, "Political Succession and International Political Economy," examines how political stability leads to autocracies adopting succession rules and how these succession rules then make it easier for autocracies to issue sovereign bonds in sub-Saharan Africa.
