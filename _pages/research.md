@@ -16,11 +16,11 @@ author_profile: true
 ## Working Papers
 
 - Sharman, Sam. "Succession from Strength: Coups and Autocratic Succession Rules in Sub-Saharan Africa." <a href="/files/SharmanAutocratic_wp.pdf" target="_blank">Manuscript</a>
-- Sharman, Sam. "Autocratic Succession Rules and Access to Foreign Finance: An Analysis of Sovereign Bond Markets in Sub-Saharan Africa." <a href="/files/SharmanSuccessionFinance_wp.pdf" target="_blank">Manuscript</a>
+- Sharman, Sam. "Succession, Stability, and Sovereign Bonds in Sub-Saharan Africa." <a href="/files/SharmanSuccessionFinance_wp.pdf" target="_blank">Manuscript</a>
 - Choi, Hongbi, and Sam Sharman. "The Conditional Importance of the Rule of Law for Foreign Direct Investment in Autocracies."
 - Goidel, Spencer, Leon Kockaya, and Sam Sharman. "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance."
 - Kockaya, Leon, and Sam Sharman. "The Mortality Dividend: Leader Deaths and Market Reactions."
-- Young, Clifford, Kirby Goidel, Sam Sharman, Santiago Calvo, and Wenye Yin. "Beyond Authoritarian Populism: Testing Nativism As the Primary Driver of Contemporary Politics."
+- Young, Clifford, Kirby Goidel, and Sam Sharman. "Beyond Authoritarian Populism: Testing Nativism As the Primary Driver of Contemporary Politics."
 
 For co-authored papers, please [email me](mailto:ssharman13@tamu.edu) or one of the other authors to access the current manuscript.
 
