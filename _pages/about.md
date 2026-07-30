@@ -10,10 +10,14 @@ redirect_from:
 
 I am an incoming Assistant Professor of Political Science in the Graduate School of International Relations at the International University of Japan. I completed my PhD in Political Science at Texas A&M University in 2026. 
 
-My core research focuses on how autocratic institutions emerge and evolve, and the effects of autocratic institutions in international political economy.
-My dissertation, "Political Succession and International Political Economy," examines how political stability leads to autocracies adopting succession rules and how these succession rules then make it easier for autocracies to issue sovereign bonds in sub-Saharan Africa.
-Other research projects address topics such as nativism, foreign direct investment, and signaling.
+My research examines how political actors establish credibility and cooperate under uncertainty, focusing on the institutions and signals that make both possible.
+This agenda covers three major areas:
+(1) the emergence and design of autocratic institutions, particularly in Africa;
+(2) the interaction between autocratic institutions and financial markets in international political economy;
+and (3) credible signaling and communication in international security.
+Alongside these core areas, I study public opinion on contemporary issues, such as state surveillance and right-wing populism.
 
-Above, you can find links to my current [CV](https://samsharman.com/files/SamSharmanCV.pdf), my [research projects](https://samsharman.com/research/), and information about my [teaching](https://samsharman.com/teaching/).
+My book project, *Constitutions, Coups, and Credit*, combines my core interests through autocratic succession in Africa.
+It explains why some dictatorships formalize succession rules while others do not and how institutionalized succession shapes investor behavior in sovereign bond markets using an original dataset of succession rules.
 
-Feel free to contact me at [ssharman13@tamu.edu](mailto:ssharman13@tamu.edu).
+My [research projects](https://samsharman.com/research/) has been published in *Electoral Studies* and conditionally accepted at the *Journal of Politics*.
