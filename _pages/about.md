@@ -20,4 +20,4 @@ Alongside these core areas, I study public opinion on contemporary issues, such 
 My book project, *Constitutions, Coups, and Credit*, combines my core interests through autocratic succession in Africa.
 It explains why some dictatorships formalize succession rules while others do not and how institutionalized succession shapes investor behavior in sovereign bond markets using an original dataset of succession rules.
 
-My [research projects](https://samsharman.com/research/) has been published in *Electoral Studies* and conditionally accepted at the *Journal of Politics*.
+My [research](https://samsharman.com/research/) has been published in *Electoral Studies* and conditionally accepted at the *Journal of Politics*.
