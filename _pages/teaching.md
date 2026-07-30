@@ -5,12 +5,21 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Instructor of Record, Texas A&M University:
+International University of Japan
 
-- POLS 424: Comparative Governmental Institutions (Fall 2024, Spring 2025)
+- African Politics (graduate) (Fall 2026)
+- Comparative Political Economy (graduate) (Winter 2027)
+- Political Analysis (graduate) (Spring 2027)
+
+Texas A&M University
+
+*Instructor of Record*
+
+- INTA 606: International Politics in Theory and Practice (graduate) (Fall 2025)
+- POLS 424: Comparative Governmental Institutions (Fall 2024, Spring 2025, Spring 2026)
 - POLS 318: Theories of International Relations (Fall 2025)
 
-Teaching Assistant, Texas A&M University:
+*Teaching Assistant*
 
 - POLS 606: Causal Inference (graduate) (Fall 2023)
 - POLS 603: Quantative Political Analysis II (graduate) (Spring 2023)
