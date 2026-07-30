@@ -20,7 +20,6 @@ author_profile: true
 - "Succession, Stability, and Sovereign Bonds in Sub-Saharan Africa." <a href="/files/SharmanSuccessionFinance_wp.pdf" target="_blank">Manuscript</a>
 - "The Conditional Importance of the Rule of Law for Foreign Direct Investment in Autocracies" (with Hongbi Choi).
 - "The Mortality Dividend: Leader Deaths and Market Reactions" (with Leon Kockaya).
-- Young, Clifford, Kirby Goidel, and Sam Sharman. "Beyond Authoritarian Populism: Testing Nativism As the Primary Driver of Contemporary Politics."
 
 ## Selected Works in Progress
 
