@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<div class="bio-justify" markdown="1" lang="en">
+
 I am an incoming Assistant Professor of Political Science in the Graduate School of International Relations at the International University of Japan. I completed my PhD in Political Science at Texas A&M University in 2026. 
 
 My research examines how political actors establish credibility and cooperate under uncertainty, focusing on the institutions and signals that make both possible.
@@ -21,3 +23,5 @@ My book project, *Constitutions, Coups, and Credit*, combines my core interests 
 It explains why some dictatorships formalize succession rules while others do not and how institutionalized succession shapes investor behavior in sovereign bond markets using an original dataset of succession rules.
 
 My [research](https://samsharman.com/research/) has been published in *Electoral Studies* and conditionally accepted at the *Journal of Politics*.
+
+</div>
