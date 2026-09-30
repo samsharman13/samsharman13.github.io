@@ -7,7 +7,9 @@ author_profile: true
 
 ## Publications
 
-- Kockaya, Leon, Spencer Goidel, and Sam Sharman. "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance." Conditionally accepted at *Journal of Politics*.
+- Kockaya, Leon, Spencer Goidel, and Sam Sharman. "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance." Forthcoming at *Journal of Politics*.
+  <a href="https://doi.org/10.1086/744221" target="_blank">Advanced Access</a>
+  <a href="https://doi.org/10.7910/DVN/ZZTL7M" target="_blank">Replication</a>
 - Sharman, Sam. 2024. "Labor Mobility and Semi-Presidentialism." *Electoral Studies* 88 (April): 102772.
 <a href="https://doi.org/10.1016/j.electstud.2024.102772" target="_blank">Paper</a>
 <a href="https://ars.els-cdn.com/content/image/1-s2.0-S0261379424000301-mmc1.pdf" target="_blank">Appendix</a>
@@ -25,7 +27,7 @@ author_profile: true
 
 - *Constitutions, Coups, and Credit: The Domestic and International Politics of Autocratic Succession in Africa* (book project).
 - "Selective Electoral Manipulation: Security, Information, and Legitimacy in Autocratic Elections."
-- "Beyond Authoritarian Populism: Testing Nativism As the Primary Driver of Contemporary Politics" (with Clifford Young and Kirby Goidel).
+- "Beyond Authoritarian Populism: Testing Nativism As the Primary Driver of Contemporary Politics" (with Clifford Young, Kirby Goidel, and Julia Reyes).
 - "Emotions and Costless Credible Signaling" (with Erik Chi and Nathan McCoslin).
 - "Observing Costly Signaling" (with Nicholas Ray).
 - "Secrecy Appeals and Public Support for Conflict Escalation" (with Matthew J. Conklin and Eddy S. F. Yeung).
