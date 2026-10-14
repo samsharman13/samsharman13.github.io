@@ -18,9 +18,9 @@ author_profile: true
 
 ## Working Papers
 
-- "Succession from Strength: Coups and Autocratic Succession Rules in Sub-Saharan Africa." <a href="/files/SharmanAutocratic_wp.pdf" target="_blank">Manuscript</a>
-- "Succession, Stability, and Sovereign Bonds in Sub-Saharan Africa." <a href="/files/SharmanSuccessionFinance_wp.pdf" target="_blank">Manuscript</a>
-- "The Conditional Importance of the Rule of Law for Foreign Direct Investment in Autocracies" (with Hongbi Choi).
+- "Succession, Stability, and Sovereign Bonds in Sub-Saharan Africa." Revise & resubmit at *Comparative Political Studies*. <a href="/files/SharmanSuccessionFinance_wp.pdf" target="_blank">Manuscript</a>
+- "Succession from Strength: Coups and Autocratic Succession Rules in Sub-Saharan Africa." Under review. <a href="/files/SharmanAutocratic_wp.pdf" target="_blank">Manuscript</a>
+- "The Conditional Importance of the Rule of Law for Foreign Direct Investment in Autocracies." Under review. (with Hongbi Choi).
 - "The Mortality Dividend: Leader Deaths and Market Reactions" (with Leon Kockaya).
 
 ## Selected Works in Progress
